@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="第 1 页" id="GO4z1VOSectx1QQytoYi">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="660" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-13" value="&amp;nbsp;表格配置" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="210" y="90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="150" width="140" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-15" value="基础表格" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-16" value="左树右表" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-17" value="多表格" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-18" value="预览区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="330" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-19" value="&amp;nbsp;表格属性配置" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="680" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-20" value="多表容器配置" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="800" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-21" value="数据源" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-22" value="表格属性" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="270" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-23" value="容器样式" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="800" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
