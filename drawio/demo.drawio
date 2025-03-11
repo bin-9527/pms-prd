@@ -130,23 +130,20 @@
         <mxCell id="NQwIcO4NpjbpjUUEAGOQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.667;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="NQwIcO4NpjbpjUUEAGOQ-24" target="NQwIcO4NpjbpjUUEAGOQ-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UNLXwDMoNl5xc4xGQnmb-1" value="监听对象a" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UNLXwDMoNl5xc4xGQnmb-1" value="字段a" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="78.75" y="910" width="72.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UNLXwDMoNl5xc4xGQnmb-4" value="目标对象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1079" width="70" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="UNLXwDMoNl5xc4xGQnmb-5" value="监听属性：value、visible、disabled、options" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="170" y="910" width="180" height="110" as="geometry" />
+        <mxCell id="UNLXwDMoNl5xc4xGQnmb-4" value="当前字段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1109" width="70" height="44" as="geometry" />
         </mxCell>
         <mxCell id="UNLXwDMoNl5xc4xGQnmb-6" value="联动属性：value、visible、disabled、options" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1079" width="180" height="105" as="geometry" />
+          <mxGeometry x="170" y="1109" width="180" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="UNLXwDMoNl5xc4xGQnmb-7" value="监听对象b" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UNLXwDMoNl5xc4xGQnmb-7" value="字段b" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="78.75" y="970" width="72.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UNLXwDMoNl5xc4xGQnmb-9" value="目标对象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1139" width="70" height="44" as="geometry" />
+        <mxCell id="UNLXwDMoNl5xc4xGQnmb-9" value="当前字段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1169" width="70" height="44" as="geometry" />
         </mxCell>
         <mxCell id="UNLXwDMoNl5xc4xGQnmb-11" value="监听对象" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="15" y="878" width="70" height="30" as="geometry" />
@@ -155,22 +152,34 @@
           <mxGeometry x="14" y="1057" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UNLXwDMoNl5xc4xGQnmb-17" value="比较运算：等于、不等于、大于、小于、大于等于、小于等于、包含、不包含、正则匹配、正则不匹配" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="370" y="910" width="160" height="110" as="geometry" />
+          <mxGeometry x="170" y="910" width="360" height="110" as="geometry" />
         </mxCell>
         <mxCell id="UNLXwDMoNl5xc4xGQnmb-18" value="选择输入类：空值、输入、布尔、数字、时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="910" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="UNLXwDMoNl5xc4xGQnmb-19" value="赋值运算：等于、包含、不包含" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1079" width="160" height="104" as="geometry" />
+          <mxGeometry x="370" y="1109" width="160" height="104" as="geometry" />
         </mxCell>
         <mxCell id="UNLXwDMoNl5xc4xGQnmb-20" value="选择输入类：空值、输入、布尔、数字、时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1079" width="170" height="104" as="geometry" />
+          <mxGeometry x="550" y="1109" width="170" height="104" as="geometry" />
         </mxCell>
         <mxCell id="UNLXwDMoNl5xc4xGQnmb-21" value="添加" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="665" y="868" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UNLXwDMoNl5xc4xGQnmb-22" value="添加" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="665" y="1048" width="50" height="30" as="geometry" />
+          <mxGeometry x="610" y="1059" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLXwDMoNl5xc4xGQnmb-23" value="且、或" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="958" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLXwDMoNl5xc4xGQnmb-25" value="&lt;span style=&quot;text-align: left;&quot;&gt;监听属性：value、不能选择当前字段&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="838" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLXwDMoNl5xc4xGQnmb-26" value="添加编码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="1058" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLXwDMoNl5xc4xGQnmb-27" value="只能当前字段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1078" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
