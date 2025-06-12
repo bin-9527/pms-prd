@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
+  <diagram name="第 1 页" id="airorosw_b04NnGrRC7C">
+    <mxGraphModel dx="1186" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o0bCcJJWBfykrTs2MjAM-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="43" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o0bCcJJWBfykrTs2MjAM-3" value="路由配置&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;1、页面路径&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;2、路由图标&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;3、页面内容&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; 3.1、表格页面&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; 3.2、表单页面&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=18;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="o0bCcJJWBfykrTs2MjAM-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="440" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="o0bCcJJWBfykrTs2MjAM-5" value="筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o0bCcJJWBfykrTs2MjAM-6" value="普通表格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="440" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="o0bCcJJWBfykrTs2MjAM-7" value="分页器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="700" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o0bCcJJWBfykrTs2MjAM-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="420" width="440" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="o0bCcJJWBfykrTs2MjAM-9" value="筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="420" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o0bCcJJWBfykrTs2MjAM-10" value="普通表格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="480" width="300" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="o0bCcJJWBfykrTs2MjAM-11" value="分页器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="700" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o0bCcJJWBfykrTs2MjAM-12" value="树结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="420" width="140" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="o0bCcJJWBfykrTs2MjAM-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="800" width="440" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="o0bCcJJWBfykrTs2MjAM-15" value="表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="800" width="440" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="o0bCcJJWBfykrTs2MjAM-17" value="提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1080" width="440" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
