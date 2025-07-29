@@ -1,44 +1,134 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="GO4z1VOSectx1QQytoYi">
-    <mxGraphModel dx="954" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="150" width="660" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-13" value="&amp;nbsp;表格配置" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-13" value="&amp;nbsp;表格配置" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="210" y="90" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="150" width="140" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-15" value="基础表格" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-15" value="基础表格" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="220" y="170" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-16" value="左树右表" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-16" value="左树右表" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="220" y="210" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-17" value="多表格" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-17" value="多表格" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="220" y="250" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-18" value="预览区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-18" value="预览区域" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="150" width="330" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-19" value="&amp;nbsp;表格属性配置" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-19" value="&amp;nbsp;表格属性配置" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="680" y="170" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-20" value="多表容器配置" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-20" value="多表容器配置" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="800" y="170" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-21" value="数据源" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-21" value="数据源" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="690" y="220" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-22" value="表格属性" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-22" value="表格属性" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="690" y="270" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-23" value="容器样式" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="UsQ-dz7IewnTj5VZ0Gpj-23" value="容器样式" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="800" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="669" width="490" height="551" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-2" value="筛选区域" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="669" width="490" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="730" width="490" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-4" value="添加" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="740" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-5" value="删除" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="740" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-6" value="刷新" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="740" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-7" value="表格、树形表格" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="780" width="490" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-8" value="分页器" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1170" width="490" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-9" value="基础表格" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="628" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="670" width="640" height="551" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-11" value="筛选区域" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="670" width="490" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="731" width="490" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-13" value="添加" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="741" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-14" value="删除" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="741" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-15" value="刷新" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="741" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-16" value="表格" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="781" width="490" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-17" value="分页器" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1171" width="490" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-18" value="树" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="670" width="150" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-19" value="左树右表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="845" y="628" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-20" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1311" width="490" height="551" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-21" value="筛选区域" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1311" width="490" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-22" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1372" width="490" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-23" value="添加" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1382" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-24" value="删除" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1382" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-25" value="刷新" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1382" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-26" value="卡片形式" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1430" width="470" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-28" value="滚动加载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1270" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-29" value="加载更多" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1814" width="490" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-30" value="卡片形式" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1560" width="470" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="3vQQ7J2SxbKkqLOqkI-W-31" value="卡片形式" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1690" width="470" height="118" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
